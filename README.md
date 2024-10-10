@@ -12,6 +12,7 @@ What have I learned:
 I want to learn:
 - Assembly(5602 -> 8086 -> x86)
 - Ethical hacking(CTFs)
+- Reverse engineering
 - OS developement
 <!---
 KOSHERNO-1947/KOSHERNO-1947 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
